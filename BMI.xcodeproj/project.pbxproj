@@ -120,8 +120,9 @@
 			children = (
 				888C0A4224E8477D00AACA80 /* AppDelegate.swift */,
 				888C0A4424E8477D00AACA80 /* SceneDelegate.swift */,
-				8879DBF524E99BC7007CF27F /* Controller */,
+				889A1C7A24EA58C5005C5BBD /* Model */,
 				8879DBF424E99BBC007CF27F /* View */,
+				8879DBF524E99BC7007CF27F /* Controller */,
 				888C0A4B24E8477E00AACA80 /* Assets.xcassets */,
 				888C0A4D24E8477E00AACA80 /* LaunchScreen.storyboard */,
 				888C0A5024E8477E00AACA80 /* Info.plist */,
@@ -145,6 +146,13 @@
 				888C0A6624E8477E00AACA80 /* Info.plist */,
 			);
 			path = BMIUITests;
+			sourceTree = "<group>";
+		};
+		889A1C7A24EA58C5005C5BBD /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
